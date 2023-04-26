@@ -21,12 +21,13 @@
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashish0076&show_icons=true&locale=en&theme=dark" alt="Ashish0076"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish0076&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Ashish0076" height="139" />
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish0076&" alt="ashish0076" /></p>
+  
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ashish0076&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
+ 
+
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Ashish0076&theme=tokyonight&border_radius=10" alt="Ashish0076" height="250px" width="47%" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
