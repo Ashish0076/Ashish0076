@@ -21,8 +21,6 @@
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashish0076&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish0076" /> </p>
-
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashish0076&show_icons=true&locale=en&theme=dark" alt="Ashish0076"  height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish0076&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Ashish0076" height="139" />
@@ -59,9 +57,28 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="90" height="90" style="padding:5px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90" style="padding:5px;"/> </a> 
 
 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  
+  </h3>
+<br>
+<h3 align="center"> 
+  Visitor count <br><br>
+  <img  src="https://profile-counter.glitch.me/Ashish0076/count.svg" />
+</h3>
+
+<div align="center">
+  <a href="https://Ashish0076.github.io/Ashish0076/">
+
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+  
+
 
