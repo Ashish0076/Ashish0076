@@ -9,11 +9,11 @@
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning ** (Full-Stack Web Development)**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 - 💬 Ask me about **Web Development**
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://Ashish0076.github.io)
+- 👨‍💻 Some of my projects are available at https://Ashish0076.github.io
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RAnd30OAJwO4c8G4KwBUuesKJoo7sfwl/view?usp=sharing)
-- 📫 How to reach me: ...**ashish9422301@gmail.com**
+- 📫 How to reach me: ashish9422301@gmail.com
 - 😄 Pronouns: ...@ashish
 - ⚡ Fun fact: ...Always smile😄 in tough situation
 
