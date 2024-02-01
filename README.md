@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **Full-Stack Web Development**
 - 💬 Ask me about **Web Development**
 - 👨‍💻 Some of my projects are available at a [My Portfolio](https://ashish0076.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RAnd30OAJwO4c8G4KwBUuesKJoo7sfwl/view?usp=sharing)
 - 📫 How to reach me: ashish9422301@gmail.com
 - 😄 Pronouns: ...@ashish
 - ⚡ Fun fact: ...Always smile😄 in tough situation
